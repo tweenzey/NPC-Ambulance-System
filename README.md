@@ -1,3 +1,5 @@
+https://youtu.be/QFxz3-Abkjc
+
 🚑 qb-upomoc: Advanced NPC Rescue System for QBcore Servers
 
 Enhance your server's realism with qb-upomoc, a customizable NPC rescue script that brings immersive ambulance and helicopter rescue services to your players. Whether they're stranded on a mountain or injured on the roadside, this script ensures help is always just a command away!
