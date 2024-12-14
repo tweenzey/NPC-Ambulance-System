@@ -1,3 +1,5 @@
+IMPORTANT! Download trough Tebex to work "https://yugoz.tebex.io/package/6584231" its Free.
+
 # 🚑 **qb-upomoc**  
 A fully configurable, feature-rich **revive system** for your QBcore-based FiveM server! This script allows players to request rescue services via NPC doctors, using vehicles or helicopters, with customizable options and a touch of immersion.
 
